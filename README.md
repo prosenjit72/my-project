@@ -104,3 +104,7 @@ git branch -d feature-2
 git push origin --delete feature-1
 git push origin --delete feature-2
 ```
+`After the last commit with README.md file:`
+``` bash
+git push origin main
+``` 
